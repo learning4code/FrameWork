@@ -19,6 +19,8 @@ public class GoogleTest {
 		driver.manage().window().maximize();
 		driver.findElement(By.name("q")).sendKeys("Maan Doolaa rey!");
 		Actions a=new Actions(driver);
+		
+		
 		a.sendKeys(Keys.ENTER);
 		Thread.sleep(4000);
 		driver.close();
