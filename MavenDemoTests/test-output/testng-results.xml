@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31155" started-at="2020-02-13T23:32:33 IST" finished-at="2020-02-13T23:33:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31155" started-at="2020-02-13T23:32:33 IST" finished-at="2020-02-13T23:33:04 IST">
+      <class name="com.qa.tests.GoogleTest">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.qa.tests.GoogleTest@50b494a6]" name="searchTest" duration-ms="31060" started-at="2020-02-13T23:32:33 IST" finished-at="2020-02-13T23:33:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- com.qa.tests.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
