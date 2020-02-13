@@ -21,6 +21,8 @@ public class ContactsPageTest extends TestBase {
 		super();
 	}
 
+	//this comment added
+	
 	@BeforeMethod
 	public void setUp() {
 		initialization();
